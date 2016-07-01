@@ -11,4 +11,5 @@ public class Test {
     void funA(){}
     void funB(){}
     void funcC(){}
+    void funE(){}
 }
