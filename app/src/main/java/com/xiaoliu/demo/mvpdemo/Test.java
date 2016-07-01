@@ -7,5 +7,6 @@ package com.xiaoliu.demo.mvpdemo;
  */
 
 public class Test {
-    void funB(){}
+
+    void funA(){}
 }
