@@ -7,5 +7,8 @@ package com.xiaoliu.demo.mvpdemo;
  */
 
 public interface BasePresenter {
+    /**
+     * 在onResume生命周期方法中进行model的绑定工作
+     */
     void start();
 }
